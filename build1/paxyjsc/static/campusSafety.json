@@ -1,0 +1,664 @@
+{
+  "title": "温州市平安校园数据驾驶舱",
+  "indicator": { "name": "市教育局智安综合指数", "value": [0, 2, 1, 4, 1] },
+  "campusNumber": { "name": "全市智安校园数", "value": [0, 1, 1, 4, 6] },
+  "campus": {
+    "title": "智安设备概览",
+    "data": [
+      {
+        "id": 1,
+        "area": "鹿城区",
+        "total": 263,
+        "nurserySchool": 124,
+        "middleAndPrimarySchool": 139,
+        "highSchool": 4
+      },
+      {
+        "id": 2,
+        "area": "瓯海区",
+        "total": 254,
+        "nurserySchool": 88,
+        "middleAndPrimarySchool": 166,
+        "highSchool": 8
+      },
+      {
+        "id": 3,
+        "area": "乐清市",
+        "total": 514,
+        "nurserySchool": 271,
+        "middleAndPrimarySchool": 243,
+        "highSchool": 0
+      },
+      {
+        "id": 4,
+        "area": "瑞安市",
+        "total": 379,
+        "nurserySchool": 142,
+        "middleAndPrimarySchool": 237,
+        "highSchool": 1
+      },
+      {
+        "id": 5,
+        "area": "龙湾区",
+        "total": 154,
+        "nurserySchool": 63,
+        "middleAndPrimarySchool": 91,
+        "highSchool": 2
+      },
+      {
+        "id": 6,
+        "area": "永嘉县",
+        "total": 302,
+        "nurserySchool": 160,
+        "middleAndPrimarySchool": 142,
+        "highSchool": 1
+      },
+      {
+        "id": 7,
+        "area": "平阳县",
+        "total": 218,
+        "nurserySchool": 108,
+        "middleAndPrimarySchool": 110,
+        "highSchool": 0
+      },
+      {
+        "id": 8,
+        "area": "苍南县",
+        "total": 253,
+        "nurserySchool": 105,
+        "middleAndPrimarySchool": 148,
+        "highSchool": 0
+      },
+      {
+        "id": 9,
+        "area": "龙港县",
+        "total": 163,
+        "nurserySchool": 64,
+        "middleAndPrimarySchool": 99,
+        "highSchool": 0
+      },
+      {
+        "id": 10,
+        "area": "开发区",
+        "total": 84,
+        "nurserySchool": 31,
+        "middleAndPrimarySchool": 53,
+        "highSchool": 2
+      },
+      {
+        "id": 11,
+        "area": "洞头区",
+        "total": 31,
+        "nurserySchool": 15,
+        "middleAndPrimarySchool": 16,
+        "highSchool": 1
+      },
+      {
+        "id": 12,
+        "area": "文成县",
+        "total": 82,
+        "nurserySchool": 50,
+        "middleAndPrimarySchool": 32,
+        "highSchool": 0
+      },
+      {
+        "id": 13,
+        "area": "泰顺县",
+        "total": 127,
+        "nurserySchool": 69,
+        "middleAndPrimarySchool": 58,
+        "highSchool": 0
+      },
+      {
+        "id": 14,
+        "area": "瓯江口",
+        "total": 14,
+        "nurserySchool": 10,
+        "middleAndPrimarySchool": 4,
+        "highSchool": 1
+      }
+    ]
+  },
+  "deviceBar": {
+    "title": "智安设备概览",
+    "data": [
+      {
+        "id": 1,
+        "area": "车辆道闸",
+        "total": 288
+      },
+      {
+        "id": 2,
+        "area": "人脸抓拍机",
+        "total": 319
+      },
+      {
+        "id": 3,
+        "area": "车辆抓拍机",
+        "total": 153
+      },
+      {
+        "id": 4,
+        "area": "访客机",
+        "total": 102
+      },
+      {
+        "id": 5,
+        "area": "门禁",
+        "total": 1004
+      }
+    ]
+  },
+  "statistics": [
+    { "url": "staff.png", "name": "教职工总数", "value": 122369 },
+    { "url": "students.png", "name": "学生总数", "value": 1304058 },
+    { "url": "security.png", "name": "安保总数", "value": 6558 },
+    { "url": "visitors.png", "name": "访客总数", "value": 600083 }
+  ],
+
+  "device": {
+    "title": "智安设备概览",
+    "total": [
+      { "url": "deviceNumber.png", "name": "设备总数", "value": 6704, "unit": "台" },
+      { "url": "monitor.png", "name": "监控总数", "value": 4838, "unit": "台" },
+      { "url": "collect.png", "name": "每日设备采集数", "value": 238926, "unit": "条" }
+    ],
+    "chart": {
+      "name": ["车辆倒闸", "人脸抓拍机", "车辆抓拍机", "门禁", "访客机"],
+      "value": [200, 150, 30, 20, 33]
+    }
+  },
+  "campusDynamic": {
+    "title": "校园动态",
+    "data": [
+      {
+        "name": "苍南县江滨小学教育集团江滨校区",
+        "event": "电动车停放出入囗"
+      },
+      {
+        "name": "平阳县万全综合高级中学（昆阳校区）",
+        "event": "门口这条路，没有路灯经常有交通事故发生。"
+      },
+      {
+        "name": "温州市双屿小学宁波路校区",
+        "event": "门口道路乱停车，影响家长接送车辆拐弯视线，对学生出入带来安全隐患"
+      },
+      {
+        "name": "温州市仰义第一小学",
+        "event": "个别班级一班一展脱落，工字钉散在楼道里。"
+      },
+      {
+        "name": "平阳县腾蛟镇第一小学",
+        "event": "人力三轮车乱停路中间"
+      },
+      {
+        "name": "瓯海区娄桥小博士幼儿园",
+        "event": "保安不在岗，去打扫卫生，门口只有一个女老师，多次出现这样问题。"
+      },
+      {
+        "name": "瓯海区娄桥第二小学",
+        "event": "学生上学的路全是小石头，清理掉小石头又是泽泥地，给学生上课带来一定隐患，建议修善。"
+      },
+      {
+        "name": "区宝龙幼儿园",
+        "event": "楼体沉降，墙体有开裂，需持续观察"
+      },
+      {
+        "name": "龙港市康乐（中心）幼儿园",
+        "event": "流动商贩，带些煤气罐的 ， 社区，城北警务也多次劝不要摆 "
+      },
+      {
+        "name": "泰顺县实验中学",
+        "event": "夜晚路灯不良，学生横过道路多 司机无法很好观察人员情况。"
+      }
+    ]
+  },
+  "securityInspection": {
+    "title": "安全检查概览",
+    "data": [
+      {
+        "id": 1,
+        "area": "鹿城区",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 2,
+        "area": "瓯海区",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 3,
+        "area": "乐清市",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 4,
+        "area": "瑞安市",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 5,
+        "area": "龙湾区",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 6,
+        "area": "永嘉县",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 7,
+        "area": "平阳县",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 8,
+        "area": "苍南县",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 9,
+        "area": "龙港市",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 10,
+        "area": "经开区",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 11,
+        "area": "洞头区",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 12,
+        "area": "文成县",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 13,
+        "area": "泰顺县",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      },
+      {
+        "id": 14,
+        "area": "瓯江口",
+        "securityStaff": 100,
+        "closed": 100,
+        "alarm": 100,
+        "video": 100,
+        "protect": 100
+      }
+    ]
+  },
+  "securityPersonnelSituation": {
+    "title": "安保人员概况",
+    "data": [
+      {
+        "id": 1,
+        "area": "鹿城区",
+        "normal": 547,
+        "overage": 84,
+        "withoutLicense": 13
+      },
+      {
+        "id": 2,
+        "area": "瓯海区",
+        "normal": 568,
+        "overage": 38,
+        "withoutLicense": 12
+      },
+      {
+        "id": 3,
+        "area": "乐清市",
+        "normal": 1138,
+        "overage": 45,
+        "withoutLicense": 24
+      },
+      {
+        "id": 4,
+        "area": "瑞安市",
+        "normal": 638,
+        "overage": 41,
+        "withoutLicense": 14
+      },
+      {
+        "id": 5,
+        "area": "龙湾区",
+        "normal": 349,
+        "overage": 21,
+        "withoutLicense": 8
+      },
+      {
+        "id": 6,
+        "area": "永嘉县",
+        "normal": 586,
+        "overage": 52,
+        "withoutLicense": 13
+      },
+      {
+        "id": 7,
+        "area": "平阳县",
+        "normal": 455,
+        "overage": 71,
+        "withoutLicense": 11
+      },
+      {
+        "id": 8,
+        "area": "苍南县",
+        "normal": 660,
+        "overage": 19,
+        "withoutLicense": 14
+      },
+      {
+        "id": 9,
+        "area": "龙港市",
+        "normal": 288,
+        "overage": 30,
+        "withoutLicense": 7
+      },
+      {
+        "id": 10,
+        "area": "经开区",
+        "normal": 162,
+        "overage": 1,
+        "withoutLicense": 3
+      },
+      {
+        "id": 11,
+        "area": "洞头区",
+        "normal": 78,
+        "overage": 1,
+        "withoutLicense": 2
+      },
+      {
+        "id": 12,
+        "area": "文成县",
+        "normal": 182,
+        "overage": 5,
+        "withoutLicense": 4
+      },
+      {
+        "id": 13,
+        "area": "泰顺县",
+        "normal": 282,
+        "overage": 8,
+        "withoutLicense": 6
+      },
+      {
+        "id": 14,
+        "area": "瓯江口",
+        "normal": 75,
+        "overage": 1,
+        "withoutLicense": 2
+      }
+    ]
+  },
+  "map": {
+    "title": "地图",
+    "districtInfos": {
+      "4": {
+        "districtId": 4,
+        "districtName": "鹿城区",
+        "composite": 7.909,
+        "schoolTotal": 263,
+        "zhiAnCampusesTotal": 249
+      },
+      "6": {
+        "districtId": 6,
+        "districtName": "瓯海区",
+        "composite": 11.467,
+        "schoolTotal": 254,
+        "zhiAnCampusesTotal": 243
+      },
+      "15": {
+        "districtId": 15,
+        "districtName": "乐清市",
+        "composite": 7.551,
+        "schoolTotal": 514,
+        "zhiAnCampusesTotal": 429
+      },
+      "14": {
+        "districtId": 14,
+        "districtName": "瑞安市",
+        "composite": 22.528,
+        "schoolTotal": 379,
+        "zhiAnCampusesTotal": 458
+      },
+      "5": {
+        "districtId": 5,
+        "districtName": "龙湾区",
+        "composite": 5.795,
+        "schoolTotal": 154,
+        "zhiAnCampusesTotal": 143
+      },
+      "8": {
+        "districtId": 8,
+        "districtName": "永嘉县",
+        "composite": 22.412,
+        "schoolTotal": 302,
+        "zhiAnCampusesTotal": 311
+      },
+      "9": {
+        "districtId": 9,
+        "districtName": "平阳县",
+        "composite": 10.538,
+        "schoolTotal": 218,
+        "zhiAnCampusesTotal": 218
+      },
+      "10": {
+        "districtId": 10,
+        "districtName": "苍南县",
+        "composite": 11.4,
+        "schoolTotal": 253,
+        "zhiAnCampusesTotal": 252
+      },
+      "16": {
+        "districtId": 16,
+        "districtName": "龙港市",
+        "composite": 9.778,
+        "schoolTotal": 163,
+        "zhiAnCampusesTotal": 161
+      },
+      "13": {
+        "districtId": 13,
+        "districtName": "经开区",
+        "composite": 4.5,
+        "schoolTotal": 84,
+        "zhiAnCampusesTotal": 15
+      },
+      "7": {
+        "districtId": 7,
+        "districtName": "洞头区",
+        "composite": 9.744,
+        "schoolTotal": 31,
+        "zhiAnCampusesTotal": 28
+      },
+      "11": {
+        "districtId": 11,
+        "districtName": "文成县",
+        "composite": 10.645,
+        "schoolTotal": 82,
+        "zhiAnCampusesTotal": 80
+      },
+      "12": {
+        "districtId": 12,
+        "districtName": "泰顺县",
+        "composite": 11.224,
+        "schoolTotal": 127,
+        "zhiAnCampusesTotal": 127
+      },
+      "17": {
+        "districtId": 17,
+        "districtName": "瓯江口",
+        "composite": 9.744,
+        "schoolTotal": 14,
+        "zhiAnCampusesTotal": 10
+      }
+    }
+  },
+  "personnelSituation": {
+    "title": "人员概况",
+
+    "data": [
+      {
+        "id": 1,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 42
+      },
+      {
+        "id": 2,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 3,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 182
+      },
+      {
+        "id": 4,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 5,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 182
+      },
+      {
+        "id": 6,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 32
+      },
+      {
+        "id": 7,
+        "area": "瓯海区",
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 22
+      },
+      {
+        "id": 8,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 32
+      },
+      {
+        "id": 9,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 10,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 11,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 12,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 13,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      },
+      {
+        "id": 14,
+        "area": "瓯海区",
+
+        "students": 91,
+        "staff": 23,
+        "securityGuards": 82
+      }
+    ]
+  }
+}

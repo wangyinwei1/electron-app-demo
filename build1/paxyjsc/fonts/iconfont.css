@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "anticon"; /* Project id 2487298 */
+  src: url('iconfont.woff2?t=1646271899381') format('woff2'),
+       url('iconfont.woff?t=1646271899381') format('woff'),
+       url('iconfont.ttf?t=1646271899381') format('truetype');
+}
+
+.anticon {
+  font-family: "anticon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anticon-kerenxinxiguanli:before {
+  content: "\e689";
+}
+
+.anticon-siji:before {
+  content: "\e604";
+}
+
+.anticonjiantoushangsheng:before {
+  content: "\e7f1";
+}
+
+.anticonjiantouxiajiang:before {
+  content: "\e7f2";
+}
+
+.anticonpaixu:before {
+  content: "\e662";
+}
+
+.anticonxietongzhihuidaping:before {
+  content: "\e661";
+}
+
+.anticon-fangkeji:before {
+  content: "\e659";
+}
+
+.anticonanbaorenyuanshu:before {
+  content: "\e656";
+}
+
+.anticondanweicheliangshu:before {
+  content: "\e657";
+}
+
+.anticondanweirenyuanshu:before {
+  content: "\e658";
+}
+
+.anticondanweifangkeshu:before {
+  content: "\e65a";
+}
+
+.anticonrenyuanfenlei:before {
+  content: "\e65b";
+}
+
+.anticon-cheliangzhuapaiji:before {
+  content: "\e65c";
+}
+
+.anticon-renlianzhuapaiji:before {
+  content: "\e65d";
+}
+
+.anticonxiaoyuanshujutongji:before {
+  content: "\e65e";
+}
+
+.anticon-menjin:before {
+  content: "\e65f";
+}
+
+.anticon-cheliangdaozha:before {
+  content: "\e660";
+}
+
+.anticonjiaoyuanfanglogo:before {
+  content: "\e69a";
+}
+

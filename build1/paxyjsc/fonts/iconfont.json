@@ -1,0 +1,135 @@
+{
+  "id": "2487298",
+  "name": "平阳智安校园数据驾驶舱",
+  "font_family": "anticon",
+  "css_prefix_text": "anticon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "797504",
+      "name": "客人信息管理",
+      "font_class": "-kerenxinxiguanli",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "2237854",
+      "name": "司机-01",
+      "font_class": "-siji",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "689253",
+      "name": "箭头 上升",
+      "font_class": "jiantoushangsheng",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "689254",
+      "name": "箭头 下降",
+      "font_class": "jiantouxiajiang",
+      "unicode": "e7f2",
+      "unicode_decimal": 59378
+    },
+    {
+      "icon_id": "1623720",
+      "name": "排序",
+      "font_class": "paixu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "20993480",
+      "name": "数据驾驶舱",
+      "font_class": "xietongzhihuidaping",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "20992622",
+      "name": "访客机",
+      "font_class": "-fangkeji",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "20992596",
+      "name": "安保人员数",
+      "font_class": "anbaorenyuanshu",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "20992597",
+      "name": "单位车辆数",
+      "font_class": "danweicheliangshu",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "20992598",
+      "name": "单位人员数",
+      "font_class": "danweirenyuanshu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "20992600",
+      "name": "单位访客数",
+      "font_class": "danweifangkeshu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "20992601",
+      "name": "人员分类",
+      "font_class": "renyuanfenlei",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "20992602",
+      "name": "车辆抓拍机",
+      "font_class": "-cheliangzhuapaiji",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "20992603",
+      "name": "人脸抓拍机",
+      "font_class": "-renlianzhuapaiji",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "20992604",
+      "name": "校园数据统计",
+      "font_class": "xiaoyuanshujutongji",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "20992605",
+      "name": "门禁",
+      "font_class": "-menjin",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "20992606",
+      "name": "车辆道闸",
+      "font_class": "-cheliangdaozha",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "20412139",
+      "name": "教育安防logo",
+      "font_class": "jiaoyuanfanglogo",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}
