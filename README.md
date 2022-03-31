@@ -64,5 +64,15 @@ electron生产打包
 	  })
 	}
 	```
+    3. 打包的文件一定要暴露出去不然会找不到路径
+    ```
+        "files": [
+        "dist/**/*",
+        "package.json",
+        "build/**/*",
+        "build1/**/*",
+        "node_modules/**/*"
+        ],
+    ```
 
 参考: https://nklayman.github.io/vue-cli-plugin-electron-builder/guide/security.html#loading-local-images-resources

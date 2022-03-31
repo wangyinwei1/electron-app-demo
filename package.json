@@ -1,7 +1,7 @@
 {
   "name": "my-electron-app",
   "version": "0.1.0",
-  "main": "./build/main.js",
+  "main": "./build1/main.js",
   "homepage": "./",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "electron-start": "electron .  --debug",
+    "electron:start": "electron .  --debug",
     "electron:build": "electron-builder"
   },
   "electronDownload": {
@@ -35,6 +35,7 @@
       "dist/**/*",
       "package.json",
       "build/**/*",
+      "build1/**/*",
       "node_modules/**/*"
     ],
     "directories": {
